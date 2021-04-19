@@ -1,7 +1,7 @@
 package character;
 
 public interface AD {
-    //物理伤害
+    //物理+还是其他伤害
     public void physicAttack();
 
     default public void attack(){
