@@ -6,5 +6,7 @@ public interface AD {
 
     default public void attack(){
         System.out.println("ad hero attack");
+
+	//add 1 mod
     }
 }
