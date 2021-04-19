@@ -14,4 +14,6 @@ public class APHero extends Hero  implements AP,Mortal {
     public void die() {
         System.out.println("APHero will die");
     }
+
+    //add forgetten
 }
