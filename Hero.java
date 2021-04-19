@@ -3,7 +3,7 @@ package character;
 import Property.Item;
 import Property.LifePotion;
 import Property.MagicPotion;
-
+//add some comment in master branch file
 public class Hero extends Object{
     public static final int itemTotalNumber = 6;  //常亮
     String name; //姓名
