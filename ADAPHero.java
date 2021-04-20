@@ -1,5 +1,5 @@
 package character;
-
+//add somthing in testing branch
 public class ADAPHero extends Hero implements AD,AP,Mortal{
     public ADAPHero(String name){
         super(name);
